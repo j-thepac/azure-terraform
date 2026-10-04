@@ -1,3 +1,7 @@
+
+#make sure to login as $az login
+
+
 terraform {
   required_providers {
     azurerm = {
